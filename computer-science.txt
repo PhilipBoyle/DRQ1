@@ -1,4 +1,0 @@
-<html>
-<head><title>Bitly</title></head>
-<body><a href="https://duckduckgo.com/?q=computer+science&amp;t=hn&amp;ia=about">moved here</a></body>
-</html>
